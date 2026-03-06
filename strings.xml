@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="full_name">Your Name</string>
+    <string name="job_title">Android Developer</string>
+    <string name="company_name">Your Company</string>
+    <string name="phone_number">+1 234 567 890</string>
+    <string name="email_address">you@example.com</string>
+</resources>
+
